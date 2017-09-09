@@ -1,1 +1,0 @@
-thirdpart librarys of rigel
